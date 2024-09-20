@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: colorai
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "The AAAI Workshop on Connecting Low-Rank Representations in AI"
+keywords: "AI, ML, deep learning, low-rank, factorization, circuits, tensors, networks"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: antonio vergari
+pub_year: 2024
+github_username: april-tools
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/april-tools/colorai"
 
 # site urls
 # Optional if using GitHub Pages! If building manually, these must be set correctly.

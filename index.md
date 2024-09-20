@@ -2,19 +2,15 @@
 title: Home
 ---
 
-# Workshop Template!
+{% include figure.html img="colorai.png" alt="colorai logo" width="75%" %}
 
-{% include figure.html img="colorai.png" alt="intro image here" caption="Library workshop" width="75%" %}
+Many of the recent advancements in AI are due to exploiting <i><b>structured low-rank representations</b><i>, from  low-rank tensor factorizations (Kolda and Bader 2009) for scaling large language models (LLMs), e.g., via adapters (Hu et al. 2021) or structured matrices
+(Dao et al. 2022); the diffusion of compact polynomial representations as powerful inductive biases for deep learning architectures (Cheng et al. 2024); the emergence of probabilistic circuits to provide tractable probabilistic inference with guarantees (Choi, Vergari, and Van den Broeck 2020) and reliable neuro-symbolic AI (Ahmed et al. 2022); and the wide application of tensor networks to solve and accelerate physics-related problems (Biamonte and Bergholm 2017) and quantum computing (Orus 2019). 
 
-A minimal Jekyll theme for creating workshop websites.
+### "How are all these representations related to each others? and how can we transfer knowledge across communities?"
 
-*Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
 
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
 <div class="toc" markdown="1">
 ## Contents:
@@ -24,11 +20,11 @@ Fun!
 {% endfor %}
 </div>
 
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
- 
-> built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
->
-> images and content: cc-by-sa <a href="https://github.com/{{ site.github_username }}">{{ site.author }}</a> {{ site.pub_year}} (get [source code]({{ site.repo }})).
+# Organizers
+
+- [Antonio Vergari](https://april-tools.github.io/)
+- [Grigorios Chrysos](https://grigoris.ece.wisc.edu/)
+- [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ)
+- [Deanna Needell](https://www.math.ucla.edu/∼deanna)
+
 > Last build date: {{ site.time | date: "%Y-%m-%d" }}.
->
-> <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
