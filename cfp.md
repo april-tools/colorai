@@ -23,7 +23,7 @@ Topics of interest include, but are not limited to:
 
 - ***tensorial architecture design*** in deep learning such as ***polynomial representations*** that have emerged as a strong-performing alternative to the standard neural network paradigm
 
-- ***tensor networks** for quantum and physics-inspired computing to solve variational inference, PDEs and inverse problems
+- ***tensor networks*** for quantum and physics-inspired computing to solve variational inference, PDEs and inverse problems
 
 - ***theory of matrix and tensor factorization methods*** and their optimization in sketching, compression and tensor completion
 
