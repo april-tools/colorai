@@ -9,7 +9,7 @@ Many of the recent advancements in AI are due to exploiting <i><b>structured low
 
 ### *"How are all these representations related to each others? and how can we transfer knowledge across communities?"*
 
-We will try to answer the above questions in our day workshop at [the Thirty-Ninth AAAI Conference on Artificial Intelligence}(https://aaai.org/conference/aaai/aaai-25/) (**AAAI-25**). The workshop will be held at the Pennsylvania Convention Center in Philadelphia, Pennsylvania, USA, March 3-4, 2025.
+We will try to answer the above questions in our day workshop at [the Thirty-Ninth AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) (**AAAI-25**). The workshop will be held at the Pennsylvania Convention Center in Philadelphia, Pennsylvania, USA, March 3-4, 2025.
 
 See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
@@ -34,7 +34,7 @@ TBA
 
 - Kolda and Bader 2009 - [Tensor decompositions and applications](https://www.kolda.net/publication/TensorReview.pdf)
 - Hu et al. 2021 - [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9)
-- Loconte et al. 2021 - [What is the Relationship between Tensor Factorizations and Circuits (and How Can We Exploit it)?](https://arxiv.org/abs/2409.07953v1)
+- Loconte et al. 2024 - [What is the Relationship between Tensor Factorizations and Circuits (and How Can We Exploit it)?](https://arxiv.org/abs/2409.07953v1)
 - Dao et al. 2022 - [Monarch: Expressive Structured Matrices for Efficient and Accurate Training](https://proceedings.mlr.press/v162/dao22a/dao22a.pdf)
 - Cheng et al. 2024 - [Multilinear Operator Networks](https://openreview.net/forum?id=bbCL5aRjUx)
 - Choi et al. 2020 - [Probabilistic Circuits: A Unifying Framework for Tractable Probabilistic Models](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
