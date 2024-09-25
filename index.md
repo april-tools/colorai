@@ -27,7 +27,7 @@ TBA
 - [Antonio Vergari](https://april-tools.github.io/)
 - [Grigorios Chrysos](https://grigoris.ece.wisc.edu/)
 - [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ)
-- [Deanna Needell](https://www.math.ucla.edu/∼deanna)
+- [Deanna Needell](https://www.math.ucla.edu/~deanna/)
 
 
 # Recommended reading
