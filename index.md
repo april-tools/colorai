@@ -14,8 +14,8 @@ We will try to answer the above questions in our day workshop at [the Thirty-Nin
 See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
 # News
-- **[25th Sep 2025]** [Openreview](https://openreview.net/group?id=AAAI.org/2025/Workshop/CoLoRAI) is open to receive submissions! 
-- **[20th Sep 2025]** Website is on! 
+- **[25th Sep 2024]** [Openreview](https://openreview.net/group?id=AAAI.org/2025/Workshop/CoLoRAI) is open to receive submissions! 
+- **[20th Sep 2024]** Website is on! 
 
 # Speakers
 
