@@ -12,14 +12,14 @@ $background-color: #fdfdfd !default;
 
 /* font base */ 
 @font-face {
-  font-family: 'Noto Sans';
-  src:  url('fonts/notosans-regular-webfont.woff') format('woff');
+  font-family: 'Open Sans';
+  src:  url('https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTaaRobkAwv3vxw3jMhVENGA.woff2') format('woff2');
 }
 @font-face {
   font-family: 'Source Code Pro';
   src:  url('fonts/sourcecodepro-regular-webfont.woff') format('woff');
 }
-$base-font-family: 'Noto Sans', Helvetica, Arial, sans-serif !default;
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif !default;
 $code-font-family: 'Source Code Pro', monospace;
 
 /* layout base */

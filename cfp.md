@@ -33,7 +33,7 @@ Topics of interest include, but are not limited to:
 
 ## Submissions
 
-We invite three types of submissions:
+We invite two types of submissions:
 
 - novel research on low-rank representations in AI or retrospective papers on lessons learned and reproducibility studies (up to 4 pages, excluding references in [AAAI format](https://aaai.org/conference/aaai/aaai-25/))
 - papers already accepted at a major AI and ML conference this year (in the original format and length)
