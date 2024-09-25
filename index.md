@@ -5,7 +5,7 @@ title: Home
 {% include figure.html img="colorai.png" alt="colorai logo" width="75%" %}
 
 Many of the recent advancements in AI are due to exploiting <i><b>structured low-rank representations</b></i>, from  low-rank tensor factorizations (Kolda and Bader 2009) for scaling large language models (LLMs), e.g., via adapters (Hu et al. 2021) or structured matrices
-(Dao et al. 2022); the diffusion of compact polynomial representations as powerful inductive biases for deep learning architectures (Cheng et al. 2024); the emergence of probabilistic circuits to provide tractable probabilistic inference with guarantees (Choi, Vergari, and Van den Broeck 2020) and reliable neuro-symbolic AI (Ahmed et al. 2022); and the wide application of tensor networks to solve and accelerate physics-related problems (Biamonte and Bergholm 2017) and quantum computing (Orus 2019). 
+(Dao et al. 2022); the diffusion of compact polynomial representations as powerful inductive biases for deep learning architectures (Cheng et al. 2024); the emergence of probabilistic circuits to provide tractable probabilistic inference with guarantees (Loconte et al. 2024; Choi et al. 2020) and reliable neuro-symbolic AI (Ahmed et al. 2022); and the wide application of tensor networks to solve and accelerate physics-related problems (Biamonte and Bergholm 2017) and quantum computing (Orus 2019). 
 
 ### "How are all these representations related to each others? and how can we transfer knowledge across communities?"
 
@@ -26,5 +26,18 @@ Many of the recent advancements in AI are due to exploiting <i><b>structured low
 - [Grigorios Chrysos](https://grigoris.ece.wisc.edu/)
 - [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ)
 - [Deanna Needell](https://www.math.ucla.edu/∼deanna)
+
+
+# Recommended reading
+
+- Kolda and Bader 2009 - [Tensor decompositions and applications](https://www.kolda.net/publication/TensorReview.pdf)
+- Hu et al. 2021 - [LoRA: Low-Rank Adaptation of Large Language Models](https://openreview.net/forum?id=nZeVKeeFYf9)
+- Loconte et al. 2021 - [What is the Relationship between Tensor Factorizations and Circuits (and How Can We Exploit it)?](https://arxiv.org/abs/2409.07953v1)
+- Dao et al. 2022 - [Monarch: Expressive Structured Matrices for Efficient and Accurate Training](https://proceedings.mlr.press/v162/dao22a/dao22a.pdf)
+- Cheng et al. 2024 - [Multilinear Operator Networks](https://openreview.net/forum?id=bbCL5aRjUx)
+- Choi et al. 2020 - [Probabilistic Circuits: A Unifying Framework for Tractable Probabilistic Models](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
+- Ahmed et al. 2022 - [Semantic Probabilistic Layers for Neuro-Symbolic Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)
+- Biamonte and Bergholm 2017 - [Tensor Networks in a Nutshell](https://arxiv.org/abs/1708.00006)
+- Orus 2019 - [Tensor networks for complex quantum systems](https://www.nature.com/articles/s42254-019-0086-7)
 
 > Last build date: {{ site.time | date: "%Y-%m-%d" }}.
