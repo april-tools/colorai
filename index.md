@@ -24,10 +24,10 @@ TBA
 
 # Organizers
 
-- [Antonio Vergari](https://april-tools.github.io/)
-- [Grigorios Chrysos](https://grigoris.ece.wisc.edu/)
-- [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ)
-- [Deanna Needell](https://www.math.ucla.edu/~deanna/)
+- [Antonio Vergari](https://april-tools.github.io/) *University of Edinburgh*
+- [Grigorios Chrysos](https://grigoris.ece.wisc.edu/) *University of Wisconsin-Madison*
+- [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ) *RIKEN-AIP*
+- [Deanna Needell](https://www.math.ucla.edu/~deanna/) *UCLA*
 
 
 # Recommended reading
