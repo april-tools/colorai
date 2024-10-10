@@ -1,9 +1,9 @@
 ---
-title: Call for Papers
+title: call for papers
 nav: true
 ---
 
-# Call for Papers
+# call for papers
 
 ## Important dates
 All times are end of day AOE.
