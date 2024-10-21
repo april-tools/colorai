@@ -97,6 +97,33 @@ div.organizer-uni{
   display: flex;
 }
 
+div #speakers {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 50px;
+  margin-bottom: 40px;
+}
+
+div.speaker{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  overflow: hidden;
+}
+
+div.speaker-name{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
+div.speaker-uni{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
 img.avatar{
   max-width: 120px;
   max-height: 120px;

@@ -19,8 +19,40 @@ See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
 # Speakers
 
-TBA
-
+<div id="speakers">
+    <div class="speaker">
+        <img class="avatar" src="https://en-exact-sciences.tau.ac.il/sites/exactsci_en.tau.ac.il/files/styles/research_teaser_image_180_x_180/public/co_nadav_cohen_180X180.webp"><br/>
+        <div class="speaker-name">
+        <b><a href="https://www.cohennadav.com/">Nadav Cohen</a></b></div>
+        <div class="speaker-uni">
+        <i> Tel Aviv University</i>
+        </div>
+    </div>
+    <div class="speaker">
+        <img class="avatar" src="https://www-labs.iro.umontreal.ca/~grabus/images/photo.jpg"><br/>
+        <div class="speaker-name">
+        <b><a href="https://www-labs.iro.umontreal.ca/~grabus/">Guillaume Rabusseau</a></b></div>
+        <div class="speaker-uni">
+        <i>UdeM/MILA</i>
+        </div>
+    </div>
+    <div class="speaker">
+        <img class="avatar" src="https://cogitat.io/assets/images/team/panagakiswhite.jpg"><br/>
+        <div class="speaker-name">
+        <b><a href="http://users.uoa.gr/~yannisp/">Yannis Panagakis</a></b></div>
+        <div class="speaker-uni">
+        <i>University of Athens</i>
+        </div>
+    </div>
+    <div class="speaker">
+        <img class="avatar" src="https://assets.amazon.science/dims4/default/362fb24/2147483647/strip/true/crop/684x925+74+0/resize/340x460!/format/webp/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2Ff4%2F73%2F65c9a02249bca0b9d56f5e52f2ad%2Fandrew-gordon-wilson.jpg">
+        <div class="speaker-name">
+        <b><a href="https://cims.nyu.edu/~andrewgw/">Andrew Wilson</a></b></div>
+        <div class="speaker-uni">
+        <i>NYU</i>
+        </div>
+    </div>
+</div>
 
 # Organizers
 
@@ -38,7 +70,7 @@ TBA
         <div class="organizer-name">
         <b><a href="https://grigoris.ece.wisc.edu/">Grigorios Chrysos</a></b></div>
         <div class="organizer-uni">
-        <i>University of Wisconsin-Madison</i>
+        <i>UW Madison</i>
         </div>
     </div>
     <div class="organizer">
