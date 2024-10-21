@@ -70,9 +70,15 @@ cite {
   font-style: italic;
 }
 
-#organizers {
+div #organizers {
   display: grid;
   column-gap: 50px;
+}
+
+div.organizer{
+  max-width: 150px;
+  grid-column: 4;
+  overflow: hidden;
 }
 
 img.avatar{
