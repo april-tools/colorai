@@ -27,22 +27,22 @@ TBA
 <div id="organizers">
     <div class="organizer">
         <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/>
-        <b><a href="https://april-tools.github.io/"></a>Antonio Vergari</b><br/>
+        <b><a href="https://april-tools.github.io/">Antonio Vergari</a></b><br/>
         *University of Edinburgh*
     </div>
     <div class="organizer">
         <img class="avatar" src="https://grigorisg9gr.github.io/images/profile.png"><br/>
-        <b><a href="https://grigoris.ece.wisc.edu/"></a>Grigorios Chrysos</b><br/>
+        <b><a href="https://grigoris.ece.wisc.edu/">Grigorios Chrysos</a></b><br/>
         *University of Wisconsin-Madison*
     </div>
     <div class="organizer">
         <img class="avatar" src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=i4JrumAAAAAJ&citpid=4"><br/>
-        <b><a href="https://scholar.google.com/citations?user=i4JrumAAAAAJ"></a>Chao Li</b><br/>
+        <b><a href="https://scholar.google.com/citations?user=i4JrumAAAAAJ">Chao Li</a></b><br/>
         *RIKEN-AIP*
     </div>
     <div class="organizer">
         <img class="avatar" src="https://s3.amazonaws.com/cms.ipressroom.com/173/files/20214/609454912cfac27230030244_Needell-768x811/Needell-768x811_260b38bf-a7a8-4684-9053-3f7d01f1a5e7-prv.jpg"><br/>
-        <b><a href="https://www.math.ucla.edu/~deanna/"></a>Deanna Needell</b><br/>
+        <b><a href="https://www.math.ucla.edu/~deanna/">Deanna Needell</a></b><br/>
         *UCLA*
     </div>
 </div>
