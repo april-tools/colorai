@@ -24,6 +24,28 @@ TBA
 
 # Organizers
 
+<div id="organizers">
+    <div class="organizer">
+        <img class="avatar" src="https://media.licdn.com/dms/image/v2/D4E03AQH9Uqk-RsrYRQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703412431582?e=1735171200&v=beta&t=MSDBLLmvN6gVLo7Sc1nwcIJzhvYZt5zdMdqHPT3UD-U">
+        <b><a href="https://april-tools.github.io/"></a>Antonio Vergari</b><br/>
+        *University of Edinburgh*
+    </div>
+    <div class="organizer">
+        <img class="avatar" src="https://grigorisg9gr.github.io/images/profile.png">
+        <b><a href="https://grigoris.ece.wisc.edu/"></a>Grigorios Chrysos</b><br/>
+        *University of Wisconsin-Madison*
+    </div>
+    <div class="organizer">
+        <img class="avatar" src="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=i4JrumAAAAAJ&citpid=4">
+        <b><a href="https://scholar.google.com/citations?user=i4JrumAAAAAJ"></a>Chao Li</b><br/>
+        *RIKEN-AIP*
+    </div>
+    <div class="organizer">
+        <img class="avatar" src="https://s3.amazonaws.com/cms.ipressroom.com/173/files/20214/609454912cfac27230030244_Needell-768x811/Needell-768x811_260b38bf-a7a8-4684-9053-3f7d01f1a5e7-prv.jpg">
+        <b><a href="https://www.math.ucla.edu/~deanna/"></a>Deanna Needell</b><br/>
+        *UCLA*
+    </div>
+</div>
 - [Antonio Vergari](https://april-tools.github.io/) *University of Edinburgh*
 - [Grigorios Chrysos](https://grigoris.ece.wisc.edu/) *University of Wisconsin-Madison*
 - [Chao Li](https://scholar.google.com/citations?user=i4JrumAAAAAJ) *RIKEN-AIP*
