@@ -75,7 +75,8 @@ cite {
   column-gap: 50px;
 }
 
-img .avatar{
+.avatar{
+  max-width: 120px;
   border-radius: 50%;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
