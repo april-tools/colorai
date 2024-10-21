@@ -80,12 +80,15 @@ div #organizers {
 
 div.organizer{
   width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
   overflow: hidden;
   display: flex;
 }
 
 img.avatar{
   max-width: 120px;
+  max-height: 120px;
   border-radius: 50%;
 -webkit-border-radius: 50%;
 -moz-border-radius: 50%;
