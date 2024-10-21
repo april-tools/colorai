@@ -83,10 +83,15 @@ div.organizer{
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   overflow: hidden;
+}
+
+div.organizer-name{
+  width: 100%;
+  grid-column: 1;
   display: flex;
 }
 
-div.organizer-info{
+div.organizer-uni{
   width: 100%;
   grid-column: 1;
   display: flex;
