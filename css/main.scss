@@ -72,13 +72,16 @@ cite {
 
 div #organizers {
   display: grid;
-  column-gap: 50px;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 50px;
+  margin-bottom: 40px;
 }
 
 div.organizer{
-  max-width: 150px;
-  grid-column: 4;
+  width: 100%;
   overflow: hidden;
+  display: flex;
 }
 
 img.avatar{
