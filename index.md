@@ -13,6 +13,9 @@ We will try to answer the above questions in our day workshop at [the Thirty-Nin
 
 See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
+✨ Check out also the Tutorial on <a href="https://april-tools.github.io/aaai25-tf-pc-tutorial/"><b>tensor factorizations and probabilistic circuits</b></a> also at AAAI-25! ✨
+
+
 # News
 - **[15th Oct 2024]** Nadav, Guillame, Yannis and Andrew confirmed to be [speakers](https://april-tools.github.io/colorai/index#speakers)!
 - **[25th Sep 2024]** [Openreview](https://openreview.net/group?id=AAAI.org/2025/Workshop/CoLoRAI) is open to receive submissions! 
