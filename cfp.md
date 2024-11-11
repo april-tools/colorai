@@ -10,7 +10,7 @@ All times are end of day AOE.
  - submission deadline: ***22nd Nov 2024***
  - expected notification of acceptance: ***9th Dec 2024***
  - camera-ready deadline: ***10th Jan 2025***
- - workshop: ***3rd*** or ***4th March 2025*** (TBD)
+ - workshop: ***4th March 2025***
 
 
 ## Topics of interest
