@@ -16,7 +16,11 @@
       <div class="trigger">
         {% for lesson in site.pages %}
           {% if lesson.nav == true %}
-          <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
+            {% if page.url != lesson.url %}
+            <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ page.url}}">{{ lesson.title | escape }}</a>
+            {% else %}
+            <a class="page-link{% if page.url == lesson.url %} active{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title | escape }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
