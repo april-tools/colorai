@@ -36,7 +36,7 @@ Topics of interest include, but are not limited to:
 We invite two types of submissions:
 
 - novel research on low-rank representations in AI or retrospective papers on lessons learned and reproducibility studies (up to 4 pages, excluding references in [**AAAI format**](https://aaai.org/conference/aaai/aaai-25/))
-- papers already accepted at a major AI and ML conference this year (in the original format and length)
+- papers already accepted at a major AI and ML conference this year (in the original format and length, not anonymized)
 
 Submissions will be accepted only through [**OpenReview**](https://openreview.net/group?id=AAAI.org/2025/Workshop/CoLoRAI) and must closely follow the formatting guidelines in the templates, otherwise, they will be desk-rejected. 
 
@@ -44,8 +44,8 @@ Supplementary material can be put in the same pdf paper (after references); it i
 
 ## Reviewing
 
-Reviewing is double-blind; i.e., reviewers will not know the authors’ identity and authors won’t know the reviewers’ identity. 
-Please refer to your prior work in the third person wherever possible. We also encourage links to public repositories such as GitHub to share code and/or data as long as they are anonymized.
+Reviewing for novel research papers is double-blind; i.e., reviewers will not know the authors’ identity and authors won’t know the reviewers’ identity. Please refer to your prior work in the third person wherever possible. We also encourage links to public repositories such as GitHub to share code and/or data as long as they are anonymized.
+Reviewing for already accepted papers is single-blind: authors won’t know the reviewers’ identity.
 
 List of reviewers:
 
