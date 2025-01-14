@@ -84,7 +84,7 @@ nav: true
         </a>
       </div>
       <div class="paper-authors">
-        <i>Jaron Maene</i>
+        <i>Jaron Maene, Vincent Derkinderen, Pedro Zuidberg Dos Martires</i>
       </div>
     </li>
     <li>
