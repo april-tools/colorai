@@ -9,7 +9,7 @@ Many of the recent advancements in AI are due to exploiting <i><b>structured low
 
 ### *"How are all these representations related to each others? and how can we transfer knowledge across communities?"*
 
-We will try to answer the above questions in our day workshop at [the Thirty-Ninth AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) (**AAAI-25**). The workshop will be held at the Pennsylvania Convention Center in Philadelphia, Pennsylvania, USA, March 3-4, 2025.
+We will try to answer the above questions in our day workshop at [the Thirty-Ninth AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) (**AAAI-25**). The workshop will be held at the Pennsylvania Convention Center in Philadelphia, Pennsylvania, USA, March 4, 2025.
 
 See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
