@@ -17,6 +17,7 @@ See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
 
 # News
+- **[27th Jan 2024]** Unfortunately, Yannis Panagakis won't be able to give a talk, but we are happy to welcome his student Alexandros Georgiou!
 - **[9th Dec 2024]** 21 papers [accepted](https://april-tools.github.io/colorai/accepted.html) at the workshop, see you in Philadelphia!
 - **[15th Oct 2024]** Nadav, Guillame, Yannis and Andrew confirmed to be [speakers](https://april-tools.github.io/colorai/index#speakers)!
 - **[25th Sep 2024]** [Openreview](https://openreview.net/group?id=AAAI.org/2025/Workshop/CoLoRAI) is open to receive submissions! 
