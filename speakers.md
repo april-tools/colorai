@@ -30,7 +30,7 @@ nav: true
         <div class="speaker-bio">Guillaume Rabusseau is an Associate Professor in the Department of Computer Science and Operations Research (DIRO) at  Université de Montréal, a core member of Mila, and a Canada CIFAR AI Chair holder. His research focuses on the intersection of machine learning, theoretical computer science, and multilinear algebra. Specifically, he explores the connections between tensors and machine learning, developing efficient learning schemes for structured data by leveraging linear and multilinear algebra. His broader research interests include tensor decomposition techniques, the use of tensor networks for machine learning, quantum machine learning, kernel methods, (weighted) automata theory, and nonlinear computational models for strings, trees, and graphs.</div>
     </div>
     <div class="speaker">
-        <img class="avatar" src="agimg.jpg"><br/>
+        <img class="avatar" src="images/agimg.jpg"><br/>
         <div class="speaker-name">
         <b><a href="http://users.uoa.gr/~yannisp/">Alexandros Georgiou</a></b></div>
         <div class="speaker-uni">

@@ -43,7 +43,7 @@ See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
         </div>
     </div>
     <div class="speaker">
-        <img class="avatar" src="agimg.jpg"><br/>
+        <img class="avatar" src="images/agimg.jpg"><br/>
         <div class="speaker-name">
         <b><a href="http://users.uoa.gr/~yannisp/">Alexandros Georgiou</a></b></div>
         <div class="speaker-uni">
