@@ -1,6 +1,6 @@
 ---
 title: speakers
-nav: _true
+nav: true
 ---
 
 # speakers
