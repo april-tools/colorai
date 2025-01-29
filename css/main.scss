@@ -137,6 +137,11 @@ img.avatar{
   object-fit: cover;
 }
 
+div.speaker-bio{
+  padding-top: 20pt;
+  font-style: italic;
+}
+
 @media only screen and (max-width: 720px) {
   div #organizers {
     display: grid;
