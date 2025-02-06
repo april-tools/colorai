@@ -34,7 +34,7 @@ nav: true
         <div class="speaker-name">
         <b><a href="http://users.uoa.gr/~yannisp/">Alexandros Georgiou</a></b></div>
         <div class="speaker-uni">
-        <i>University of Athens</i>
+        <i>University of Athens/Archimedes-Athena Research Center</i>
         </div>        
         <div class="speaker-title"><b>A Tensor Network Approach to Equivariant Polynomial Networks</b></div>
         <div class="speaker-abstract">In this talk, we will investigate a coordinate-free attempt to formalize polynomial networks, stemming from the representation of polynomial maps as tensor networks. We will discuss how this framework encompasses previously proposed polynomial networks and adheres to the compositional architecture paradigm of deep learning. Ultimately, given group representations on the input and output spaces, we will see that this discussion naturally extends to the equivariant setting and elaborate on implementation aspects.</div>
