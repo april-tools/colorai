@@ -47,8 +47,9 @@ nav: true
         <div class="speaker-uni">
         <i>NYU</i>
         </div>
-        <div class="speaker-title"><b>TBD</b></div>
-        <div class="speaker-abstract">TBD</div>
-        <div class="speaker-bio"></div>
+        <div class="speaker-title"><b>Machine Learning is Linear Algebra</b></div>
+        <div class="speaker-abstract">I will talk about how modelling assumptions manifest themselves as algebraic structure in a variety of settings, including optimization, attention, and network parameters, and how we can algorithmically exploit that structure for better scaling laws with transformers. As part of this effort, I will introduce CoLA (Compositional Linear Algebra) which automates and enables prototyping model construction with structured numerical linear algebra. I will also present a unifying framework that enables searching among all linear operators expressible via an Einstein summation. This framework encompasses previously proposed structures, such as low-rank, Kronecker, Tensor-Train, and Monarch, along with many novel structures. We develop a taxonomy of all such operators based on their computational and algebraic properties, which provides insights into their compute-optimal scaling laws. Combining these insights with empirical evaluation, we identify a subset of structures that achieve better performance than dense layers as a function of training compute, which we then develop into a high-performance sparse mixture-of-experts layer.</div>
+        <div class="speaker-bio">Andrew Gordon Wilson is a Professor at the Courant Institute of Mathematical Sciences and Center for Data Science at New York University. He is interested in developing a prescriptive foundation for
+building intelligent systems. His work includes the discovery of mode connectivity, the SWA optimization procedure, the popular GPyTorch library for scalable Gaussian processes, informative generalization bounds for billion parameter neural networks, Bayesian optimization techniques for protein engineering, the first LLM for time-series forecasting, and many contributions to Bayesian deep learning. His website is https://cims.nyu.edu/~andrewgw.</div>
     </div>
 </div>
