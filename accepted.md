@@ -10,7 +10,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=eWLtVJA6Um">
-          <b>LoRA-Mini: Adaptation Matrices Decomposition and Selective Training</b>
+          <b>[P1] LoRA-Mini: Adaptation Matrices Decomposition and Selective Training</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -20,7 +20,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=DGTH2eUU9U">
-          <b>VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks</b>
+          <b>[P1] VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -30,7 +30,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=oie6YGA3Hm">
-          <b>Non-negative Tensor Low-rank Decompositions Through the Lens of Information Geometry</b>
+          <b>[P1] Non-negative Tensor Low-rank Decompositions Through the Lens of Information Geometry</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -40,7 +40,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=iVpribuyjP">
-          <b>Privacy-Preserving Low-Rank Adaptation against Membership Inference Attacks for Latent Diffusion Models</b>
+          <b>[P1] Privacy-Preserving Low-Rank Adaptation against Membership Inference Attacks for Latent Diffusion Models</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -50,7 +50,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=XAseszkDDC">
-          <b>Reinforcement Learning for Quantum Circuit Design: Using Matrix Representations</b>
+          <b>[P1] Reinforcement Learning for Quantum Circuit Design: Using Matrix Representations</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -60,7 +60,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=nqiFYh5VOV">
-          <b>Low-Rank Adaptation with Task-Relevant Feature Enhancement for Fine-tuning Language Models</b>
+          <b>[P1] Low-Rank Adaptation with Task-Relevant Feature Enhancement for Fine-tuning Language Models</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -70,7 +70,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=bXAt5iZ69l">
-          <b>Compositionality Unlocks Deep Interpretable Models</b>
+          <b>[P1] Compositionality Unlocks Deep Interpretable Models</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -80,7 +80,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=vU8EPo44Gj">
-          <b>KLay: Accelerating Sparse Arithmetic Circuits</b>
+          <b>[P1] KLay: Accelerating Sparse Arithmetic Circuits</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -90,7 +90,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=WTRBDY9m3n">
-          <b>On Faster Marginalization with Squared Circuits via Orthonormalization</b>
+          <b>[P2] On Faster Marginalization with Squared Circuits via Orthonormalization</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -100,7 +100,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=qfVxGq2iiH">
-          <b>Low-rank Finetuning for LLMs is Inherently Unfair</b>
+          <b>[P2] Low-rank Finetuning for LLMs is Inherently Unfair</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -110,7 +110,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=IqYqXVmy0m">
-          <b>Transplanting Knowledge: A Study on Layer-Specific Grafting in LLMs</b>
+          <b>[P2] Transplanting Knowledge: A Study on Layer-Specific Grafting in LLMs</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -120,7 +120,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=aGJOXujXlu">
-          <b>Low-Rank Adapters Meet Neural Architecture Search for LLM Compression</b>
+          <b>[P2] Low-Rank Adapters Meet Neural Architecture Search for LLM Compression</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -130,7 +130,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=9wI3rO5QqM">
-          <b>Low Tensor Rank Learning of Neural Dynamics</b>
+          <b>[P2] Low Tensor Rank Learning of Neural Dynamics</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -140,7 +140,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=f1R95AoSAQ">
-          <b>Towards Symmetric Low-Rank Adapters</b>
+          <b>[P2] Towards Symmetric Low-Rank Adapters</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -150,7 +150,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=QgYl2J2m4n">
-          <b>FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation</b>
+          <b>[P2] FinLoRA: Finetuning Quantized Financial Large Language Models Using Low-Rank Adaptation</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -160,7 +160,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=rQf2Y7qit5">
-          <b>Stochastic Gradient Descent on Tensors with Missing Data</b>
+          <b>[P2] Stochastic Gradient Descent on Tensors with Missing Data</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -170,7 +170,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=VEXnS9zBXg">
-          <b>Restructuring Tractable Probabilistic Circuits</b>
+          <b>[P2] Restructuring Tractable Probabilistic Circuits</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -180,7 +180,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=syr78TFSWp">
-          <b>A Low-Rank Perspective on Oversmoothing in Graph Neural Networks</b>
+          <b>[P1] A Low-Rank Perspective on Oversmoothing in Graph Neural Networks</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -190,7 +190,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=hGsxrFF0tY">
-          <b>Entropy Coding Compression of Tree Tensor Networks</b>
+          <b>[P2] Entropy Coding Compression of Tree Tensor Networks</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -200,7 +200,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=XAO6PASnFO">
-          <b>Scaling up Probabilistic Circuits via Monarch Transformations</b>
+          <b>[P2] Scaling up Probabilistic Circuits via Monarch Transformations</b>
         </a>
       </div>
       <div class="paper-authors">
@@ -210,7 +210,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=AOj5DLBbdM">
-          <b>Low Rank Adaptations for Effective Machine Unlearning</b>
+          <b>[P1] Low Rank Adaptations for Effective Machine Unlearning</b>
         </a>
       </div>
       <div class="paper-authors">
