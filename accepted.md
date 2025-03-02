@@ -5,7 +5,7 @@ nav: true
 
 # accepted papers
 
-*<b>Note</b> we will have two poster sessions (<b>[P1]</b> and <b>[P2]</b>). Please check below when your poster shall be presented and see[<b>here</b>](https://april-tools.github.io/colorai/schedule.html) when the two sessions will be held.*
+*<b>Note</b> we will have two poster sessions (<b>[P1]</b> and <b>[P2]</b>). Please check below when your poster shall be presented and see [<b>here</b>](https://april-tools.github.io/colorai/schedule.html) when the two sessions will be held.*
 
 <div id="accepted-papers">
   <ul>
