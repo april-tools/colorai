@@ -18,6 +18,7 @@ See our [call for papers](https://april-tools.github.io/colorai/cfp.html).
 
 # News
 - **[ 2nd Mar 2025]** The [poster session schedule](https://april-tools.github.io/colorai/accepted.html) is out, check when to hang your poster!
+- **[ 2nd Mar 2025]** Video presentations of accepted papers are available [here](https://www.youtube.com/watch?v=JlVdwoay5JE&list=PLQr89HPpyqULW-49myPgsP4odwOTgyhHI)
 - **[25th Feb 2025]** [Schedule](https://april-tools.github.io/colorai/schedule.html) is up!
 - **[27th Jan 2025]** Unfortunately, Yannis Panagakis won't be able to give a talk, but we are happy to welcome his student Alexandros Georgiou!
 - **[9th Dec 2024]** 21 papers [accepted](https://april-tools.github.io/colorai/accepted.html) at the workshop, see you in Philadelphia!
