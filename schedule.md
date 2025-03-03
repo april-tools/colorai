@@ -16,4 +16,4 @@ nav: true
 -  2.00pm -  2.45pm *Third Invited Talk* (Andrew Wilson)
 -  2.45pm -  3.30pm *Fourth Invited Talk* (Alexandros Georgiou)
 -  3.30pm -  5.00pm *Coffee Break + poster session II* <b>[P2]</b>
--  5.30pm -  6.00pm *Closing panel*
+-  5.00pm -  6.00pm *Closing panel*
