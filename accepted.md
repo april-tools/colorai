@@ -104,7 +104,7 @@ nav: true
     <li>
       <div class="paper-title">
         <a href="https://openreview.net/forum?id=qfVxGq2iiH">
-          <b>[P2] Low-rank Finetuning for LLMs is Inherently Unfair</b>
+          <b>[P1] Low-rank Finetuning for LLMs is Inherently Unfair</b>
         </a>
       </div>
       <div class="paper-authors">
